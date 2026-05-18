@@ -1,4 +1,3 @@
-````md
 # ReliefChain Soroban
 
 ## Description
@@ -16,7 +15,6 @@ This MVP is designed for learning and experimentation. It is not production-read
 ```txt
 CCGHLSVRIF26IPYSNYBJX76BHKOMTG5CJR5YLFLTQDB3K7MBPZAN7K65
 ```
-````
 
 ---
 
@@ -288,7 +286,3 @@ CCGHLSVRIF26IPYSNYBJX76BHKOMTG5CJR5YLFLTQDB3K7MBPZAN7K65
 ## Disclaimer
 
 This project is for educational and experimental purposes only. It is not ready for real-world disaster relief operations without further security review, legal review, real asset integration, and production-grade infrastructure.
-
-```
-
-```
